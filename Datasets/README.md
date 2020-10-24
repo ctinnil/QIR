@@ -1,13 +1,14 @@
 # Datasets & other useful resources for ML experiments  
 
   ## Datasets 
-    0. DARPA --> 
-                  |Name | Link |
-                  ---|---
-                  1998 DARPA INTRUSION DETECTION EVALUATION DATASET | https://www.ll.mit.edu/r-d/datasets/1998-darpa-intrusion-detection-evaluation-dataset
-                  1999 DARPA INTRUSION DETECTION EVALUATION DATASET | https://www.ll.mit.edu/r-d/datasets/1999-darpa-intrusion-detection-evaluation-dataset
-                  2000 DARPA INTRUSION DETECTION SCENARIO SPECIFIC DATASETS | https://www.ll.mit.edu/r-d/datasets/2000-darpa-intrusion-detection-scenario-specific-datasets
+    0. DARPA
     
+|Name | Link |
+---|---
+1998 DARPA INTRUSION DETECTION EVALUATION DATASET | https://www.ll.mit.edu/r-d/datasets/1998-darpa-intrusion-detection-evaluation-dataset
+1999 DARPA INTRUSION DETECTION EVALUATION DATASET | https://www.ll.mit.edu/r-d/datasets/1999-darpa-intrusion-detection-evaluation-dataset
+2000 DARPA INTRUSION DETECTION SCENARIO SPECIFIC DATASETS | https://www.ll.mit.edu/r-d/datasets/2000-darpa-intrusion-detection-scenario-specific-datasets
+
     1. KDD
     
       --> http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
