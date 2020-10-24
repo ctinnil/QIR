@@ -27,6 +27,9 @@
   ## Platforms 
   
   --> https://www.kaggle.com
+  
   --> https://colab.research.google.com/notebooks/intro.ipynb
+  
   --> https://www.ibm.com/analytics/machine-learning
+  
   --> https://www.cs.waikato.ac.nz/ml/weka/
