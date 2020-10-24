@@ -11,19 +11,22 @@
 
     1. KDD
     
-      --> http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
-      --> https://www.kdd.org/kdd-cup/view/kdd-cup-1999/Data
+  --> http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
+  
+  --> https://www.kdd.org/kdd-cup/view/kdd-cup-1999/Data
    
     2. NSL-KDD
     3. ISCX-IDS-2012
     4. CIC-IDS-2017
-    5. CSE-CIC-IDS2018 ...and other at **Canadian Institute for Cybersecurity** 
+    5. CSE-CIC-IDS2018 
     
-        --> https://www.unb.ca/cic/datasets/index.html
+...and other at **Canadian Institute for Cybersecurity** 
+    
+   --> https://www.unb.ca/cic/datasets/index.html
         
     6. CTU-13
    
-        --> https://www.stratosphereips.org/datasets-ctu13
+   --> https://www.stratosphereips.org/datasets-ctu13
         
   ## Platforms 
   
