@@ -3,17 +3,17 @@
  ### Various  methods to improve weblogs analysis employing machine learning techniques
 
 ---
-** The repository is composed from multiple ![Jupyter Notebooks](https://jupyter.org/try) that pass through various experiments on the considered weblogs. **
+** The repository is composed from multiple [Jupyter Notebooks](https://jupyter.org/try) that pass through various experiments on the considered weblogs. **
 
 ---
 
 If you encounter difficulties in viewing the .ipynb files, like shown below, just reload until you get the content. 
 
-![Error](imgs/Screenshot 2021-03-29 at 14.15.20.png)
+![Error](https://github.com/ctinnil/QIR/blob/master/imgs/Screenshot%202021-03-29%20at%2014.15.20.png)
 
 After the fix, you should see something similar to:
 
-![Error](QIR/imgs/Screenshot 2021-03-29 at 14.17.29.png)
+![Fixed](https://github.com/ctinnil/QIR/blob/master/imgs/Screenshot%202021-03-29%20at%2014.17.29.png)
 
 This behavior is a known issue on Github, as you can see here: https://github.com/jupyter/notebook/issues/3035
 
