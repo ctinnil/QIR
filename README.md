@@ -3,7 +3,8 @@
  ### Various  methods to improve weblogs analysis employing machine learning techniques
 
 ---
-** The repository is composed from multiple [Jupyter Notebooks](https://jupyter.org/try) that pass through various experiments on the considered weblogs. **
+
+**The repository is composed of multiple [Jupyter Notebooks](https://jupyter.org/try) that pass through various experiments on the considered weblogs.**
 
 ---
 
