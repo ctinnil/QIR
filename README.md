@@ -1,10 +1,8 @@
 # QIR -- Unsupervised learning approach to quick incident response
-***
-methods to improve weblogs analysis employing machine learning techniques
 
-**This repository is composed of multiple [Jupyter Notebooks](https://jupyter.org/try) that pass through experiments on the considered weblogs, code snippets, datasets, and various useful resources:
+### 1. Methods to improve weblogs analysis employing machine learning techniques
 
----
+**This repository is composed of multiple [Jupyter Notebooks](https://jupyter.org/try) that pass through experiments on the considered weblogs, code snippets, datasets, and various useful resources:***
 
 If you encounter difficulties in viewing the .ipynb files, like shown below, just reload until you get the content. 
 
@@ -27,5 +25,3 @@ Here are the nbviewer links associated with the notebooks as mentioned above:
 https://nbviewer.jupyter.org/github/ctinnil/QIR/blob/master/unsupervised-learning-on-web-logs.ipynb
 
 https://nbviewer.jupyter.org/github/ctinnil/QIR/blob/master/unsupervised-learning-on-web-logs-v2.ipynb
-
-
