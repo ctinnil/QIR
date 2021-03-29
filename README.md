@@ -1,10 +1,8 @@
-# QIR -- Unsupervised learning on weblogs
- 
- ### Various  methods to improve weblogs analysis employing machine learning techniques
+# QIR -- Unsupervised learning approach to quick incident response
+***
+methods to improve weblogs analysis employing machine learning techniques
 
----
-
-**The repository is composed of multiple [Jupyter Notebooks](https://jupyter.org/try) that pass through various experiments on the considered weblogs.**
+**This repository is composed of multiple [Jupyter Notebooks](https://jupyter.org/try) that pass through experiments on the considered weblogs, code snippets, datasets, and various useful resources:
 
 ---
 
