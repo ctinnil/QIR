@@ -6,22 +6,22 @@
 
 If you encounter difficulties in viewing the .ipynb files, like shown below, just reload until you get the content. 
 
-![Error](https://github.com/ctinnil/QIR/blob/master/imgs/Screenshot%202021-03-29%20at%2014.15.20.png)
+<img width="1079" alt="Screenshot 2021-03-29 at 14 15 20" src="https://user-images.githubusercontent.com/69745175/119089241-847e9d00-ba12-11eb-9cd4-cc71bcc060c3.png">
 
-After the fix, you should see something similar to:
+**After the fix, you should see something similar to:**
 
-![Fixed](https://github.com/ctinnil/QIR/blob/master/imgs/Screenshot%202021-03-29%20at%2014.17.29.png)
+<img width="1079" alt="Screenshot 2021-03-29 at 14 17 29" src="https://user-images.githubusercontent.com/69745175/119089274-9102f580-ba12-11eb-8f65-559d63b42e97.png">
 
 This behavior is a known issue on Github, as you can see here: https://github.com/jupyter/notebook/issues/3035
 
 Alternatively, you can try the workaround presented at: 
 
-https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11
+["Sorry, something went wrong. Reload?" when viewing *.ipynb #11](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11)
 
-By accessing "https://nbviewer.jupyter.org/" and pasting the desired notebook link, you can inspect the work quickly and effortlessly. 
+By accessing [nbviewer](https://nbviewer.jupyter.org/) and pasting the desired notebook link, you can inspect the work quickly and effortlessly. 
 
 Here are the nbviewer links associated with the notebooks as mentioned above:
 
-https://nbviewer.jupyter.org/github/ctinnil/QIR/blob/master/unsupervised-learning-on-web-logs.ipynb
+[Unsupervised learning on Weblogs](https://nbviewer.jupyter.org/github/ctinnil/QIR/blob/master/unsupervised-learning-on-web-logs.ipynb)
 
-https://nbviewer.jupyter.org/github/ctinnil/QIR/blob/master/unsupervised-learning-on-web-logs-v2.ipynb
+[Unsupervised learning on Weblogs v2](https://nbviewer.jupyter.org/github/ctinnil/QIR/blob/master/unsupervised-learning-on-web-logs-v2.ipynb)
