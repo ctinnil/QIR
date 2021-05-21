@@ -12,7 +12,7 @@ If you encounter difficulties in viewing the .ipynb files, like shown below, jus
 
 <img width="1079" alt="Screenshot 2021-03-29 at 14 17 29" src="https://user-images.githubusercontent.com/69745175/119089274-9102f580-ba12-11eb-8f65-559d63b42e97.png">
 
-This behavior is a known issue on Github, as you can see here: https://github.com/jupyter/notebook/issues/3035
+This behavior is a known issue on Github, as you can see here: [Jupyter notebook not rendering in github #3035](https://github.com/jupyter/notebook/issues/3035)
 
 Alternatively, you can try the workaround presented at: 
 
