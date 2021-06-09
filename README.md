@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://doi.org/10.5281/zenodo.4915651"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4915651.svg" alt="DOI"></a>
-  <a href="https://doi.org/10.1109/COMM48946.2020.9141989"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4915653.svg" alt="DOI"></a>
-  <a href="https://doi.org/10.1109/ECAI50035.2020.9223163"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4915653.svg" alt="DOI"></a>
+  <a href="https://doi.org/10.1109/COMM48946.2020.9141989"><img src="https://img.shields.io/badge/DOI-10.1109%2FCOMM48946.2020.9141989-blue" alt="DOI"></a>
+  <a href="https://doi.org/10.1109/ECAI50035.2020.9223163"><img src="https://img.shields.io/badge/DOI-10.1109%2FECAI50035.2020.9223163-blue" alt="DOI"></a>
   <a href="https://twitter.com/intent/tweet?text=Useful+Snippets+for+Quick+Incident+Response+on+weblogs&amp;url=https%3A%2F%2Fgithub.com%2Fctinnil%2FQIR.git&amp;via=ctinnil">
       <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fctinnil%2FQIR.git" alt="Tweet">
   </a>
