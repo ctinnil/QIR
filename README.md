@@ -1,5 +1,16 @@
 # QIR -- Unsupervised learning approach to quick incident response
 
+![tianyi-ma-WiONHd_zYI4-unsplash banner](https://user-images.githubusercontent.com/69745175/121303210-7e8a2680-c903-11eb-822c-14185a9182ff.jpg)
+
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.4915651"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4915651.svg" alt="DOI"></a>
+  <a href="https://doi.org/10.1109/COMM48946.2020.9141989"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4915653.svg" alt="DOI"></a>
+  <a href="https://doi.org/10.1109/ECAI50035.2020.9223163"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4915653.svg" alt="DOI"></a>
+  <a href="https://twitter.com/intent/tweet?text=Useful+Snippets+for+Quick+Incident+Response+on+weblogs&amp;url=https%3A%2F%2Fgithub.com%2Fctinnil%2FQIR.git&amp;via=ctinnil">
+      <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fctinnil%2FQIR.git" alt="Tweet">
+  </a>
+</p>
+
 ### 1. Methods to improve weblogs analysis employing machine learning techniques
 
 **This repository is composed of multiple [Jupyter Notebooks](https://jupyter.org/try) that pass through experiments on the considered weblogs, code snippets, datasets, and various useful resources:***
