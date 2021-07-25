@@ -13,7 +13,7 @@
 
 ### 1. Methods to improve weblogs analysis employing machine learning techniques
 
-**This repository is composed of multiple [Jupyter Notebooks](https://jupyter.org/try) that pass through experiments on the considered weblogs, code snippets, datasets, and various useful resources:***
+***This repository is composed of multiple [Jupyter Notebooks](https://jupyter.org/try) that pass through experiments on the considered weblogs, code snippets, datasets, and various useful resources:***
 
 If you encounter difficulties in viewing the .ipynb files, like shown below, just reload until you get the content. 
 
