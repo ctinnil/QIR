@@ -36,3 +36,14 @@ Here are the nbviewer links associated with the notebooks as mentioned above:
 [Unsupervised learning on Weblogs](https://nbviewer.jupyter.org/github/ctinnil/QIR/blob/master/unsupervised-learning-on-web-logs.ipynb)
 
 [Unsupervised learning on Weblogs v2](https://nbviewer.jupyter.org/github/ctinnil/QIR/blob/master/unsupervised-learning-on-web-logs-v2.ipynb)
+
+### Reference
+
+If you find this code useful for your research, please cite
+
+```BibTex
+@INPROCEEDINGS{9141989,  author={Nilă, Constantin and Apostol, Ioana and Patriciu, Victor},  booktitle={2020 13th International Conference on Communications (COMM)},   title={Machine learning approach to quick incident response},   year={2020},  volume={},  number={},  pages={291-296},  doi={10.1109/COMM48946.2020.9141989}}
+```
+```BibTex
+@INPROCEEDINGS{9223163,  author={Nilă, Constantin and Patriciu, Victor},  booktitle={2020 12th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)},   title={Taking advantage of unsupervised learning in incident response},   year={2020},  volume={},  number={},  pages={1-6},  doi={10.1109/ECAI50035.2020.9223163}}
+```
