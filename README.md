@@ -1,6 +1,6 @@
 # QIR -- Unsupervised learning approach to quick incident response
 
-![edgy](https://github.com/ctinnil/QIR/assets/69745175/576a9b56-eb59-4220-99bb-93e84183e7ff)
+![edgy](https://github.com/ctinnil/QIR/assets/69745175/eb07ce54-630f-4c9f-9741-aaaaf16c5502)
 
 <p align="center">
   <a href="https://doi.org/10.5281/zenodo.4915651"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4915651.svg" alt="DOI"></a>
