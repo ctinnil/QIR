@@ -1,0 +1,14 @@
+Summary of Classified Web Server Log Entries
+===========================================
+Normal Entries: 46390
+Suspicious Entries: 3699
+Malicious Entries: 0
+
+Examples of Classified Entries
+IP Address	Status Code	Path	Classification	Reason
+-------------------------------------------------------------
+13.66.139.0	200	/index.php?option=com_phocagallery&view=category&id=1:almhuette-raith&Itemid=53	Normal	No suspicious indicators found
+157.48.153.185	200	/apache-log/access.log	Normal	No suspicious indicators found
+157.48.153.185	404	/favicon.ico	Suspicious	Error code 404 might indicate probing
+216.244.66.230	200	/robots.txt	Normal	No suspicious indicators found
+54.36.148.92	200	/index.php?option=com_phocagallery&view=category&id=2%3Awinterfotos&Itemid=53	Normal	No suspicious indicators found
