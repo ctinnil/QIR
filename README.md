@@ -8,6 +8,20 @@
   <a href="https://doi.org/10.1109/ECAI50035.2020.9223163"><img src="https://img.shields.io/badge/DOI-10.1109%2FECAI50035.2020.9223163-blue" alt="DOI"></a>
 </p>
 
+## Spread the Word 
+
+We’d love your help to grow **QIR**!  
+If you find this project helpful, please share it with your friends, colleagues, or communities—on social media, newsletters, or blogs. Every mention helps us reach more people who might benefit from it.
+
+You can also support the project directly and [![Support QIR](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ctinnil)
+
+ —it means a lot and helps keep everything running!
+
+Thank you for being part of our journey and for helping **QIR** thrive 🚀
+
+---
+
+
 ### 1. Methods to improve weblogs analysis employing machine learning techniques
 
 [Unsupervised learning on Weblogs](https://github.com/ctinnil/QIR/blob/master/unsupervised-learning-on-web-logs.ipynb)
